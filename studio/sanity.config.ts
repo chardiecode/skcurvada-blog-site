@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'skcurvada-blog',
 
-  projectId: 'jmifx8su',
+  projectId: 'x1d3es12',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
